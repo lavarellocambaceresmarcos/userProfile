@@ -52,8 +52,8 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 12vh;
-  width: 6.5vw;
+  height: 10vh;
+  width: 5.5vw;
   border-radius: 4vw;
   position: relative;
   bottom: 8vh;
@@ -107,7 +107,6 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* padding-bottom: 7vh; */
 }
 
 .part-2 ul {
