@@ -239,3 +239,7 @@ h1 {
   padding: 0.2vw 1vw;
   border-radius: 0.5vw;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
